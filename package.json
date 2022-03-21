@@ -6,8 +6,7 @@
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
-	},
-	"author": "",
+	},"author": "Jane Doe",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
