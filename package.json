@@ -7,7 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"author": "Roaa Al-hakimi",
+	"author": "",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
